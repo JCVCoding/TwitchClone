@@ -16,3 +16,4 @@ In order to use this application you will need to run the following steps:
 10) Now select your stream from the list and look at the url in the address bar. The number at the end is your ID and is also your stream key. Go back to OBS and input this number in the stream key section if you have not already.
 11) Click Start Streaming in OBS. Thats it! You are now live :smile:
 
+This project was built as part of the Modern React with Redux course by Stephen Grider.
