@@ -1,4 +1,4 @@
-To use this application you need to have Node/npm installed on your computer as well as a streaming / recording program. I recommend OBS and the instructions will assume you are using OBS as well as a basic understanding of how to setup a stream.
+To use this application you need to have Node/npm installed on your computer as well as a streaming / recording program. I recommend OBS and the instructions will assume you know how to use OBS to setup a stream.
 
 In order to use this application you will need to run the following steps:
 1) Open three terminal windows
